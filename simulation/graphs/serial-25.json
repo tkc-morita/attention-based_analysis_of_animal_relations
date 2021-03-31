@@ -1,0 +1,34 @@
+{
+	"ordered_nodes":["referee",
+		"referrer1","referrer2","referrer3","referrer4","referrer5","referrer6","referrer7","referrer8","referrer9","referrer10",
+		"referrer11","referrer12","referrer13","referrer14","referrer15","referrer16","referrer17","referrer18","referrer19","referrer20",
+		"referrer21","referrer22","referrer23","referrer24"
+		],
+	"node2parents":{
+		"referee": [],
+		"referrer1": ["referee"],
+		"referrer2": ["referrer1"],
+		"referrer3": ["referrer2"],
+		"referrer4": ["referrer3"],
+		"referrer5": ["referrer4"],
+		"referrer6": ["referrer5"],
+		"referrer7": ["referrer6"],
+		"referrer8": ["referrer7"],
+		"referrer9": ["referrer8"],
+		"referrer10": ["referrer9"],
+		"referrer11": ["referrer10"],
+		"referrer12": ["referrer11"],
+		"referrer13": ["referrer12"],
+		"referrer14": ["referrer13"],
+		"referrer15": ["referrer14"],
+		"referrer16": ["referrer15"],
+		"referrer17": ["referrer16"],
+		"referrer18": ["referrer17"],
+		"referrer19": ["referrer18"],
+		"referrer20": ["referrer19"],
+		"referrer21": ["referrer20"],
+		"referrer22": ["referrer21"],
+		"referrer23": ["referrer22"],
+		"referrer24": ["referrer23"]
+	}
+}
